@@ -1,4 +1,3 @@
-![Module Preview](doc/Preview-01.jpg)
 # Merge/Split Modules for VCV-Rack
 **2HP 8 & 16 Channels polyphonic cable Merge**
 **2HP 8 & 16 Channels polyphonic cable Split**
@@ -14,6 +13,7 @@ Get VCV Rack (free) at [their Homepage](http://vcvrack.com)
 **My FB:** [Johann Asbjoernson](https://www.facebook.com/asbjoernson)
 **YouTube:** [YT channel](https://www.youtube.com/channel/UCI0k8-TxcRn5xqFGdGfNQlg/videos)
 -------
+![Module Preview](doc/Preview-01.jpg)
 ![Module Preview](doc/Preview-02.jpg)
 ![Module Preview](doc/Preview-03.jpg)
 ![Module Preview](doc/Preview-04.jpg)

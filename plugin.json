@@ -1,0 +1,51 @@
+{
+  "slug": "JohannAsbjoernson",
+  "name": "Johann Asbjoernson",
+  "version": "1.0.0",
+  "license": "GPL-3.0-or-later",
+  "author": "Johann Asbjoernson",
+  "authorEmail": "johann@raisedasapackofwolves.de",    
+  "authorUrl": "https://www.facebook.com/asbjoernson",
+  "pluginUrl": "https://github.com/sansgout/VCV-Rack",
+  "manualUrl": "https://github.com/sansgout/VCV-Rack",
+  "sourceUrl": "https://github.com/sansgout/VCV-Rack",
+  "donateUrl": "",
+  "changelogUrl": "",
+  "modules": [
+    {
+      "slug": "Merge8",
+      "name": "Merge 8",
+      "description": "8-channel polyphonic merge.",
+      "manualUrl": "https://github.com/sansgout/VCV-Rack",
+      "tags": ["Utility", "Polyphonic"]
+    },
+    {
+      "slug": "Merge16",
+      "name": "Merge 16",
+      "description": "8-channel polyphonic merge.",
+      "manualUrl": "https://github.com/sansgout/VCV-Rack",
+      "tags": ["Utility", "Polyphonic"]
+    },
+    {
+      "slug": "Split8",
+      "name": "Split 8",
+      "description": "8-channel polyphonic split.",
+      "manualUrl": "https://github.com/sansgout/VCV-Rack",
+      "tags": ["Utility", "Polyphonic"]
+    },
+    {
+      "slug": "Split16",
+      "name": "Split 16",
+      "description": "16-channel polyphonic split.",
+      "manualUrl": "https://github.com/sansgout/VCV-Rack",
+      "tags": ["Utility", "Polyphonic"]
+    },
+    {
+      "slug": "SplitMerge",
+      "name": "Split Merge 8/8",
+      "description": "8-channel polyphonic merge & split.",
+      "manualUrl": "https://github.com/sansgout/VCV-Rack",
+      "tags": ["Utility", "Polyphonic"]
+    }
+  ]
+}

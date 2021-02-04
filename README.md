@@ -1,7 +1,7 @@
 ### Merge/Split Modules for VCV-Rack
-**2HP 8 & 16 Channels polyphonic cable Merge**
-**2HP 8 & 16 Channels polyphonic cable Split**
-**2HP 8 & 8 Channels polyphonic cable Merge/Split**
+* **2HP 8 & 16 Channels polyphonic cable Merge**
+* **2HP 8 & 16 Channels polyphonic cable Split**
+* **2HP 8 & 8 Channels polyphonic cable Merge/Split**
 *Based on source code from 21kHz.*
 
 Slim form factor Merge/Split modules for saving Rack-space in complex patches. 

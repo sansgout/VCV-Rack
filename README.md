@@ -2,7 +2,7 @@
 * **2HP 8 & 16 Channels polyphonic cable Merge**
 * **2HP 8 & 16 Channels polyphonic cable Split**
 * **2HP 8 & 8 Channels polyphonic cable Merge/Split**
-*Based on source code from 21kHz.*
+*Based on source code from 23volts.*
 
 Slim form factor Merge/Split modules for saving Rack-space in complex patches. 
 Design is still a rough sketch. 
